@@ -52,7 +52,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 💬 Support & Feedback
-If you find any issues or have suggestions, please open an issue [here](https://github.com/sp22-bse-073/my-chrome-extension/issues).  
+If you find any issues or have suggestions, please open an issue [here](https://github.com/sp22-bse-073/delete-facebook-messages/issues).  
 Happy coding! 🚀
 
 
