@@ -6,7 +6,7 @@
 Since this extension is not available in the Chrome Web Store, follow these steps to install it manually:
 
 ### **Step 1: Download the Extension**
-1. Go to the **[Releases](https://github.com/your-username/my-chrome-extension/releases/latest)** page.
+1. Go to the **[Releases](https://github.com/sp22-bse-073/delete-facebook-messages/releases/latest)** page.
 2. Download the latest `my-extension.zip` file.
 3. Extract the ZIP file to a folder on your computer.
 
